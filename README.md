@@ -1,4 +1,4 @@
 # The-Haunted-Forest
 Platformer game
 
-run Game
+run Game file to play
